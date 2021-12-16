@@ -8,6 +8,8 @@ Please send future topics via Issues, we also have discussions open.
 
 ### 16/12/2021
 
+Recording link: <https://twitter.com/i/spaces/1PlJQaggOEyJE/peek>
+
 - Yosys graphviz generation - visualizing you design: `yosys -p "read_verilog myfile.v; proc; opt; show -colors 2 -width -format dot -prefix MyModule -signed MyModule`, open file in <https://edotor.net>
 - Chisel diagrammer - Visalize Chisel design in SVG <https://www.chisel-lang.org/diagrammer/>
 - Nickolay's Chisel feedback - Chinese Academy of Sciences RISC-V Core <https://github.com/OpenXiangShan/XiangShan>
